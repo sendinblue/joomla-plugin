@@ -21,3 +21,4 @@ After installing the SendinBlue administrative component, you’ll be able to:
 - Sync Joomla users and Joomla contacts with your SendinBlue account - this tool allows to easy transfer your Joomla users/contacts data to SendinBlue and assign them in SendinBlue contact lists
 - Send transaction emails - set up that Joomla mail to use SendinBlue SMTP server
 - Track website activity thanks to SendinBlue marketing automation - the marketing automation plug-in will add the automation tracking script to your Joomla website
+- Chat with your visitors
